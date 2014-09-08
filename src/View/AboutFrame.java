@@ -60,7 +60,7 @@ public class AboutFrame extends javax.swing.JFrame {
         TextAreaNames.setColumns(20);
         TextAreaNames.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         TextAreaNames.setRows(5);
-        TextAreaNames.setText("Oscar Soto\nLuisa Sanchez");
+        TextAreaNames.setText("Sneyder Gantiva");
         ScrollPaneTextAreaNames.setViewportView(TextAreaNames);
 
         ButtonAceptar.setText("Aceptar");
